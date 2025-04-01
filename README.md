@@ -11,12 +11,12 @@
 * list your fav animes.
 
 ### Roadmap for upcoming
-* Allows to play the anime trailers.
-* More customisation features.
-* Add support manga titles.
-* Watch anime inside the app.
-* Read manga inside the app.
-* Maybe module support.
+- [X] Allows to play the anime trailers
+- [ ] More customisation features.
+- [ ]  Add support manga titles.
+- [ ]  Watch anime inside the app.
+- [ ]  Read manga inside the app.
+- [ ]   Maybe module support.
 
 ### Installation
 You can install the AniX with the help of sidestore/sideloadly/altstore just download the AniXDoo.ipa file from the release section and import the file into your desire sidestore/sideloadly/altstore via usb to your iphone/ipad. 
