@@ -24,7 +24,7 @@
 - [ ] tvOS (Coming Soon)
 
 ### Installation
-You can install the AniX with the help of sidestore/sideloadly/altstore just download the AniXDoo.ipa file from the release section and import the file into your desire sidestore/sideloadly/altstore via usb to your iphone/ipad. 
+You can install the AniX with the help of sidestore/sideloadly/altstore just download the AniX.ipa file from the release section and import the file into your desire sidestore/sideloadly/altstore via usb to your iphone/ipad. 
 ### Demo
 
 https://github.com/user-attachments/assets/253797e6-96ca-49d9-a6a2-f00fa9bdcb29
